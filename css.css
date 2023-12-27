@@ -1,0 +1,156 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+html {
+    width: 1fr;
+    height: 1fr;
+    text-align: center;
+    background-color: rgb(198, 204, 230);
+    overflow: hidden;
+}
+
+.div0 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: rgb(202, 1, 1);
+    margin: 80px;
+    height: 1fr;
+}
+
+.div1 {
+    display: grid;
+    grid-template-rows: 2fr 3fr 4fr 3fr 2fr;
+}
+
+.div2 h1 {
+    font-size: 96px;
+    margin-top: 150px;
+}
+
+.div3 {
+    display: grid;
+    grid-template-rows: 2fr 2fr 3fr 2fr 3fr 2fr;
+}
+
+.h2-1 {
+    font-size: 48px;
+    transform: rotate(335deg);
+    margin-left: -155px;
+    margin-top: -15px;
+}
+
+.h2-2 {
+    font-size: 58px;
+    transform: rotate(325deg);
+    margin-left: 240px;
+    margin-top: 65px;
+}
+
+.h2-3 {
+    font-size: 40px;
+    transform: rotate(355deg);
+    margin-left: -40px;
+    margin-top: 25px;
+}
+
+.h2-4 {
+    font-size: 54px;
+    transform: rotate(340deg);
+    margin-left: 130px;
+    margin-top: 65px;
+}
+
+.h2-5 {
+    font-size: 52px;
+    transform: rotate(315deg);
+    margin-left: -120px;
+    margin-top: -65px;
+}
+
+.h2-6 {
+    font-size: 64px;
+    transform: rotate(-336deg);
+    margin-left: -240px;
+    margin-top: 25px;
+}
+
+.h2-7 {
+    font-size: 54px;
+    transform: rotate(-325deg);
+    margin-left: 120px;
+    margin-top: 65px;
+}
+
+.h2-8 {
+    font-size: 42px;
+    transform: rotate(-355deg);
+    margin-left: -70px;
+    margin-top: 25px;
+}
+
+.h2-9 {
+    font-size: 38px;
+    transform: rotate(-345deg);
+    margin-left: 170px;
+    margin-top: -25px;
+}
+
+.h2-10 {
+    font-size: 48px;
+    transform: rotate(-315deg);
+    margin-left: 20px;
+    margin-top: -65px;
+}
+
+.h2-11 {
+    font-size: 48px;
+    transform: rotate(-345deg);
+    margin-left: -70px;
+    margin-top: -65px;
+}
+
+.div4 {
+    margin-top: -150px;
+    display: grid;
+    grid-template-columns: 3fr 2fr 1fr 1fr 3fr 4fr;
+}
+
+.div4 h2 {
+    width: 600px;
+    height: 580px;
+    background-color: aliceblue;
+    border-radius: 1000px;
+}
+
+.h2-12 {
+    margin-right: -200px;
+    margin-top: -20px;
+    margin-left: -140px;
+}
+.h2-13 {
+    margin-right: -20px;
+    margin-left: -220px;
+}
+.h2-14 {
+    margin-right: -18px;
+    margin-top: -30px;
+    margin-left: -210px;
+}
+.h2-15 {
+    margin-right: -20px;
+    margin-top: 5px;
+    margin-left: -210px;
+}
+.h2-16 {
+    margin-top: -26px;
+    margin-left: -280px;
+}
+
+.h2-17 {
+    margin-top: -20px;
+    margin-left: -200px;
+}
